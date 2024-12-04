@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Admin\Documents\GitHub\Face-ID-Python\.metadata\.plugins\org.eclipse.jdt.core
